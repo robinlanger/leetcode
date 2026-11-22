@@ -9,7 +9,7 @@ New files start from [`TEMPLATE.py`](TEMPLATE.py) and are named `<number>-<slug>
 
 | # | Category | Solved |
 |---|----------|--------|
-| 01 | [Arrays & Hashing](01-arrays-and-hashing) | 0 / 9 |
+| 01 | [Arrays & Hashing](01-arrays-and-hashing) | 1 / 9 |
 | 02 | [Two Pointers](02-two-pointers) | 0 / 5 |
 | 03 | [Sliding Window](03-sliding-window) | 0 / 6 |
 | 04 | [Stack](04-stack) | 0 / 7 |
@@ -27,7 +27,7 @@ New files start from [`TEMPLATE.py`](TEMPLATE.py) and are named `<number>-<slug>
 | 16 | [Intervals](16-intervals) | 0 / 6 |
 | 17 | [Math & Geometry](17-math-and-geometry) | 0 / 8 |
 | 18 | [Bit Manipulation](18-bit-manipulation) | 0 / 7 |
-| | **Total** | **0 / 150** |
+| | **Total** | **1 / 150** |
 
 ## Solutions
 
